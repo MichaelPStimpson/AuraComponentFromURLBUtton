@@ -1,4 +1,4 @@
-# AuraComponentFromURLBUtton
+# AuraComponentFromURLButton
 I'm commonly asked how to deal with the empty screen users get if they exit out of a modal, so here is an example!
 
 When users navigate to a lightning component from a URL button on a related list (or overwriting the stanard edit button like in this example)
