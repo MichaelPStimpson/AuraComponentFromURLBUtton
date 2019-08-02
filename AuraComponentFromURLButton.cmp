@@ -1,7 +1,7 @@
 <!--
 	Created as a demonstration on how to use an Aura Component without being left on a blank screen.
 -->
-<aura:component implements="lightning:actionOverride,force:hasRecordId,force:lightningQuickActionWithoutHeader,force:appHostable,flexipage:availableForAllPageTypes"> 
+<aura:component implements="lightning:actionOverride,force:hasRecordId,force:lightningQuickActionWithoutHeader"> 
 
     <aura:attribute name="disabled" type="Boolean" default="false" />
     <aura:attribute name="showSpinner" type="Boolean" default="true" />
